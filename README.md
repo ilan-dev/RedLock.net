@@ -1,6 +1,6 @@
-# RedLock.net
+# RedLock.net for .NET Core 3.1
 
-[![Build status](https://ci.appveyor.com/api/projects/status/fclfbkdqy905v3xu/branch/master?svg=true)](https://ci.appveyor.com/project/samcook/redlock-net/branch/master) [![GitHub](https://img.shields.io/github/license/samcook/RedLock.net.svg)](LICENSE) [![NuGet](https://img.shields.io/nuget/dt/RedLock.net.svg)](https://www.nuget.org/packages/RedLock.net) [![GitHub release](https://img.shields.io/github/release/samcook/RedLock.net.svg?logo=github&logoColor=cccccc)](https://github.com/samcook/RedLock.net/releases) [![GitHub release](https://img.shields.io/github/release/samcook/RedLock.net/all.svg?label=pre-release&logo=github&logoColor=cccccc)](https://github.com/samcook/RedLock.net/releases)
+## Forked from [samcook/RedLock.net](https://github.com/samcook/RedLock.net).
 
 An implementation of the [Redlock distributed lock algorithm](http://redis.io/topics/distlock) in C#.
 
