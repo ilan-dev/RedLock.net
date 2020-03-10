@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFrameworks>net461;net472;netcoreapp2.0</TargetFrameworks>
+		<TargetFrameworks>netcoreapp3.1</TargetFrameworks>
 		<AssemblyName>RedLockNet.Tests</AssemblyName>
 		<RootNamespace>RedLockNet.Tests</RootNamespace>
 		<SignAssembly>True</SignAssembly>
@@ -15,7 +15,7 @@
 		<PackageReference Include="NUnit3TestAdapter" Version="3.8.0-alpha1" />
 		<PackageReference Include="Redis-64" Version="3.0.503" />
 
-		<PackageReference Include="Microsoft.Extensions.Logging.Console" Version="[2.0.0,)" />
+		<PackageReference Include="Microsoft.Extensions.Logging.Console" Version="[3.1.0,)" />
 	</ItemGroup>
 
 	<ItemGroup>
