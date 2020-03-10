@@ -156,3 +156,4 @@ $RECYCLE.BIN/
 .DS_Store
 /.vs/RedLock.net/v16/Server/sqlite3
 /.vs/RedLock.net/v16/TestStore/0
+/nuget.config
